@@ -17,5 +17,5 @@ jobs:
       - name: Auto green
         run: |
             chmod 777 cordcloud
-            bash ./cordcloud
+            ./cordcloud
           
